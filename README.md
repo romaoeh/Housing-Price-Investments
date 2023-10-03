@@ -178,3 +178,4 @@ By incorporating these recommendations into the allocation of investment dollars
 
 <img width="872" alt="Screenshot 2023-05-24 at 9 48 30 PM" src="https://github.com/romaoeh/HousingPriceInvestments/assets/131217181/a2033135-28bc-4915-a60e-315f43b1fa2e">
 
+
